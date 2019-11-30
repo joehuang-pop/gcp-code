@@ -27,7 +27,7 @@ cloud projects add-iam-policy-binding $PROJECT_ID \
 # 4. Local laptop Using
     export MY_REGION=us-central1
     export MY_ZONE=asia-east1
-    export LAB_PROJECT=tw-rd-ca-joe-huang
+    export LAB_PROJECT=
 
     gcloud config set compute/region $MY_REGION
     gcloud config set compute/zone $MY_ZONE
