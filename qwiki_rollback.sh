@@ -18,3 +18,7 @@
 
     gcloud auth activate-service-account --key-file ~/Downloads/$LAB_PROJECT.json
 
+# 5. Check Env
+    gcloud config list
+    gcloud auth list
+
