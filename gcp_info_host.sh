@@ -1,7 +1,8 @@
 #!/bin/bash -xe
 
 # introducing sleep so network interfaces and routes can get ready before fetching software
-# ubuntu system using
+# Ubuntu/Debian system using
+# With startup script, append metadata
 # reference by https://www.qwiklabs.com/focuses/1206?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4021452
 
 sleep 10
